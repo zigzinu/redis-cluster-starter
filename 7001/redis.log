@@ -1,0 +1,85 @@
+6708:C 27 May 2021 04:47:24.164 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6708:C 27 May 2021 04:47:24.165 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=6708, just started
+6708:C 27 May 2021 04:47:24.166 # Configuration loaded
+6708:M 27 May 2021 04:47:24.167 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+6708:M 27 May 2021 04:47:24.168 * monotonic clock: POSIX clock_gettime
+6708:M 27 May 2021 04:47:24.171 * No cluster configuration found, I'm ef04033f13d83f3fa3c20c32ac959ba8f098c85c
+6708:M 27 May 2021 04:47:24.175 * Running mode=cluster, port=7001.
+6708:M 27 May 2021 04:47:24.175 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+6708:M 27 May 2021 04:47:24.175 # Server initialized
+6708:M 27 May 2021 04:47:24.175 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+6708:M 27 May 2021 04:47:24.175 * Ready to accept connections
+6708:M 27 May 2021 05:05:15.052 # configEpoch set to 2 via CLUSTER SET-CONFIG-EPOCH
+6708:M 27 May 2021 05:05:44.508 # IP address for this node updated to 127.0.0.1
+6708:M 27 May 2021 05:05:46.916 # Cluster state changed: ok
+6708:M 27 May 2021 05:17:41.276 * Marking node 9b3fb844b1329cd37b88fad82374e39fea38efb8 as failing (quorum reached).
+6708:M 27 May 2021 05:17:41.276 # Cluster state changed: fail
+6708:M 27 May 2021 05:22:49.872 * Clear FAIL state for node 9b3fb844b1329cd37b88fad82374e39fea38efb8: is reachable again and nobody is serving its slots after some time.
+6708:M 27 May 2021 05:22:49.872 # Cluster state changed: ok
+6708:M 15 Jun 2021 07:43:46.806 * Marking node 9f876cbd724438705f7a5ee8bfda9c4d7999aaba as failing (quorum reached).
+6708:M 15 Jun 2021 07:43:46.807 # Cluster state changed: fail
+6708:M 15 Jun 2021 07:44:01.792 * Clear FAIL state for node 9f876cbd724438705f7a5ee8bfda9c4d7999aaba: is reachable again and nobody is serving its slots after some time.
+6708:M 15 Jun 2021 07:44:01.792 # Cluster state changed: ok
+6708:M 16 Jun 2021 01:38:52.924 * 1 changes in 3600 seconds. Saving...
+6708:M 16 Jun 2021 01:38:52.925 * Background saving started by pid 31364
+31364:C 16 Jun 2021 01:38:52.947 * DB saved on disk
+31364:C 16 Jun 2021 01:38:52.948 * RDB: 0 MB of memory used by copy-on-write
+6708:M 16 Jun 2021 01:38:53.026 * Background saving terminated with success
+6708:M 16 Jun 2021 02:05:35.297 # User requested shutdown...
+6708:M 16 Jun 2021 02:05:35.297 * Calling fsync() on the AOF file.
+6708:M 16 Jun 2021 02:05:35.303 * Saving the final RDB snapshot before exiting.
+6708:M 16 Jun 2021 02:05:35.306 * DB saved on disk
+6708:M 16 Jun 2021 02:05:35.306 * Removing the pid file.
+6708:M 16 Jun 2021 02:05:35.306 # Redis is now ready to exit, bye bye...
+393:C 16 Jun 2021 02:05:50.036 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+393:C 16 Jun 2021 02:05:50.036 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=393, just started
+393:C 16 Jun 2021 02:05:50.036 # Configuration loaded
+393:M 16 Jun 2021 02:05:50.038 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+393:M 16 Jun 2021 02:05:50.038 * monotonic clock: POSIX clock_gettime
+393:M 16 Jun 2021 02:05:50.038 * Node configuration loaded, I'm ef04033f13d83f3fa3c20c32ac959ba8f098c85c
+393:M 16 Jun 2021 02:05:50.040 * Running mode=cluster, port=7001.
+393:M 16 Jun 2021 02:05:50.040 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+393:M 16 Jun 2021 02:05:50.040 # Server initialized
+393:M 16 Jun 2021 02:05:50.040 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+393:M 16 Jun 2021 02:05:50.042 * DB loaded from append only file: 0.000 seconds
+393:M 16 Jun 2021 02:05:50.042 * Ready to accept connections
+393:M 16 Jun 2021 02:05:52.109 # Cluster state changed: ok
+393:M 16 Jun 2021 03:05:51.074 * 1 changes in 3600 seconds. Saving...
+393:M 16 Jun 2021 03:05:51.075 * Background saving started by pid 6392
+6392:C 16 Jun 2021 03:05:51.078 * DB saved on disk
+6392:C 16 Jun 2021 03:05:51.079 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 03:05:51.180 * Background saving terminated with success
+393:M 16 Jun 2021 04:24:14.194 * 1 changes in 3600 seconds. Saving...
+393:M 16 Jun 2021 04:24:14.195 * Background saving started by pid 15501
+15501:C 16 Jun 2021 04:24:14.199 * DB saved on disk
+15501:C 16 Jun 2021 04:24:14.208 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 04:24:14.296 * Background saving terminated with success
+393:M 16 Jun 2021 04:29:15.076 * 100 changes in 300 seconds. Saving...
+393:M 16 Jun 2021 04:29:15.076 * Background saving started by pid 16387
+16387:C 16 Jun 2021 04:29:15.096 * DB saved on disk
+16387:C 16 Jun 2021 04:29:15.097 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 04:29:15.177 * Background saving terminated with success
+393:M 16 Jun 2021 05:29:16.011 * 1 changes in 3600 seconds. Saving...
+393:M 16 Jun 2021 05:29:16.012 * Background saving started by pid 23437
+23437:C 16 Jun 2021 05:29:16.021 * DB saved on disk
+23437:C 16 Jun 2021 05:29:16.022 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 05:29:16.116 * Background saving terminated with success
+393:M 16 Jun 2021 05:39:20.798 * 100 changes in 300 seconds. Saving...
+393:M 16 Jun 2021 05:39:20.798 * Background saving started by pid 24979
+24979:C 16 Jun 2021 05:39:20.804 * DB saved on disk
+24979:C 16 Jun 2021 05:39:20.806 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 05:39:20.900 * Background saving terminated with success
+393:M 16 Jun 2021 05:44:21.038 * 100 changes in 300 seconds. Saving...
+393:M 16 Jun 2021 05:44:21.038 * Background saving started by pid 25834
+25834:C 16 Jun 2021 05:44:21.048 * DB saved on disk
+25834:C 16 Jun 2021 05:44:21.049 * RDB: 0 MB of memory used by copy-on-write
+393:M 16 Jun 2021 05:44:21.139 * Background saving terminated with success
+393:M 21 Jun 2021 01:38:55.638 # Cluster state changed: fail
+393:M 21 Jun 2021 01:38:55.900 * Marking node 9f876cbd724438705f7a5ee8bfda9c4d7999aaba as failing (quorum reached).
+393:M 21 Jun 2021 01:39:03.661 * Clear FAIL state for node 9f876cbd724438705f7a5ee8bfda9c4d7999aaba: is reachable again and nobody is serving its slots after some time.
+393:M 21 Jun 2021 01:39:03.662 # Cluster state changed: ok
+393:M 21 Jun 2021 01:44:53.361 # Cluster state changed: fail
+393:M 21 Jun 2021 01:45:05.000 * FAIL message received from 9f876cbd724438705f7a5ee8bfda9c4d7999aaba about 9b3fb844b1329cd37b88fad82374e39fea38efb8
+393:M 21 Jun 2021 01:45:24.362 * Marking node 9f876cbd724438705f7a5ee8bfda9c4d7999aaba as failing (quorum reached).
+393:M 21 Jun 2021 01:50:27.092 * Clear FAIL state for node 9b3fb844b1329cd37b88fad82374e39fea38efb8: is reachable again and nobody is serving its slots after some time.
+393:M 21 Jun 2021 01:50:43.269 * Marking node 9b3fb844b1329cd37b88fad82374e39fea38efb8 as failing (quorum reached).

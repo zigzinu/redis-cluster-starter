@@ -1,0 +1,213 @@
+19580:C 26 May 2021 06:01:56.202 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19580:C 26 May 2021 06:01:56.202 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19580, just started
+19580:C 26 May 2021 06:01:56.202 # Configuration loaded
+19580:M 26 May 2021 06:01:56.203 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19580:M 26 May 2021 06:01:56.203 * monotonic clock: POSIX clock_gettime
+19580:M 26 May 2021 06:01:56.204 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19580:M 26 May 2021 06:01:56.204 * Running mode=cluster, port=7000.
+19580:M 26 May 2021 06:01:56.204 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19580:M 26 May 2021 06:01:56.204 # Server initialized
+19580:M 26 May 2021 06:01:56.204 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19580:M 26 May 2021 06:01:56.204 * Ready to accept connections
+19580:signal-handler (1622008926) Received SIGINT scheduling shutdown...
+19580:M 26 May 2021 06:02:06.363 # User requested shutdown...
+19580:M 26 May 2021 06:02:06.363 * Calling fsync() on the AOF file.
+19580:M 26 May 2021 06:02:06.368 * Saving the final RDB snapshot before exiting.
+19580:M 26 May 2021 06:02:06.370 * DB saved on disk
+19580:M 26 May 2021 06:02:06.370 # Redis is now ready to exit, bye bye...
+19602:C 26 May 2021 06:02:19.729 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19602:C 26 May 2021 06:02:19.729 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19602, just started
+19602:C 26 May 2021 06:02:19.729 # Configuration loaded
+19602:M 26 May 2021 06:02:19.730 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19602:M 26 May 2021 06:02:19.730 * monotonic clock: POSIX clock_gettime
+19602:M 26 May 2021 06:02:19.731 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19602:M 26 May 2021 06:02:19.732 * Running mode=cluster, port=7000.
+19602:M 26 May 2021 06:02:19.732 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19602:M 26 May 2021 06:02:19.732 # Server initialized
+19602:M 26 May 2021 06:02:19.732 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19602:M 26 May 2021 06:02:19.732 * Ready to accept connections
+19602:M 26 May 2021 06:02:55.778 # User requested shutdown...
+19602:M 26 May 2021 06:02:55.778 * Calling fsync() on the AOF file.
+19602:M 26 May 2021 06:02:55.783 * Saving the final RDB snapshot before exiting.
+19602:M 26 May 2021 06:02:55.787 * DB saved on disk
+19602:M 26 May 2021 06:02:55.787 * Removing the pid file.
+19602:M 26 May 2021 06:02:55.787 # Redis is now ready to exit, bye bye...
+19640:C 26 May 2021 06:03:00.731 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19640:C 26 May 2021 06:03:00.731 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19640, just started
+19640:C 26 May 2021 06:03:00.731 # Configuration loaded
+19640:M 26 May 2021 06:03:00.732 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19640:M 26 May 2021 06:03:00.732 * monotonic clock: POSIX clock_gettime
+19640:M 26 May 2021 06:03:00.732 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19640:M 26 May 2021 06:03:00.733 * Running mode=cluster, port=7000.
+19640:M 26 May 2021 06:03:00.733 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19640:M 26 May 2021 06:03:00.733 # Server initialized
+19640:M 26 May 2021 06:03:00.733 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19640:M 26 May 2021 06:03:00.733 * Ready to accept connections
+19640:signal-handler (1622008984) Received SIGINT scheduling shutdown...
+19640:M 26 May 2021 06:03:04.903 # User requested shutdown...
+19640:M 26 May 2021 06:03:04.903 * Calling fsync() on the AOF file.
+19640:M 26 May 2021 06:03:04.908 * Saving the final RDB snapshot before exiting.
+19640:M 26 May 2021 06:03:04.920 * DB saved on disk
+19640:M 26 May 2021 06:03:04.920 # Redis is now ready to exit, bye bye...
+19795:C 26 May 2021 06:04:51.692 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19795:C 26 May 2021 06:04:51.692 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19795, just started
+19795:C 26 May 2021 06:04:51.692 # Configuration loaded
+19795:M 26 May 2021 06:04:51.694 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19795:M 26 May 2021 06:04:51.694 * monotonic clock: POSIX clock_gettime
+19795:M 26 May 2021 06:04:51.694 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19795:M 26 May 2021 06:04:51.694 * Running mode=cluster, port=7000.
+19795:M 26 May 2021 06:04:51.694 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19795:M 26 May 2021 06:04:51.695 # Server initialized
+19795:M 26 May 2021 06:04:51.695 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19795:M 26 May 2021 06:04:51.695 * Ready to accept connections
+19795:signal-handler (1622009093) Received SIGINT scheduling shutdown...
+19795:M 26 May 2021 06:04:53.376 # User requested shutdown...
+19795:M 26 May 2021 06:04:53.376 * Calling fsync() on the AOF file.
+19795:M 26 May 2021 06:04:53.377 * Saving the final RDB snapshot before exiting.
+19795:M 26 May 2021 06:04:53.390 * DB saved on disk
+19795:M 26 May 2021 06:04:53.391 # Redis is now ready to exit, bye bye...
+19923:C 26 May 2021 06:05:43.822 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19923:C 26 May 2021 06:05:43.822 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19923, just started
+19923:C 26 May 2021 06:05:43.822 # Configuration loaded
+19923:M 26 May 2021 06:05:43.822 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19923:M 26 May 2021 06:05:43.822 * monotonic clock: POSIX clock_gettime
+19923:M 26 May 2021 06:05:43.823 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19923:M 26 May 2021 06:05:43.823 * Running mode=cluster, port=7000.
+19923:M 26 May 2021 06:05:43.823 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19923:M 26 May 2021 06:05:43.823 # Server initialized
+19923:M 26 May 2021 06:05:43.823 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19923:M 26 May 2021 06:05:43.824 * Ready to accept connections
+19923:signal-handler (1622009145) Received SIGINT scheduling shutdown...
+19923:M 26 May 2021 06:05:45.938 # User requested shutdown...
+19923:M 26 May 2021 06:05:45.938 * Calling fsync() on the AOF file.
+19923:M 26 May 2021 06:05:45.945 * Saving the final RDB snapshot before exiting.
+19923:M 26 May 2021 06:05:45.948 * DB saved on disk
+19923:M 26 May 2021 06:05:45.948 # Redis is now ready to exit, bye bye...
+19984:C 26 May 2021 06:06:05.774 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+19984:C 26 May 2021 06:06:05.774 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=19984, just started
+19984:C 26 May 2021 06:06:05.774 # Configuration loaded
+19984:M 26 May 2021 06:06:05.775 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+19984:M 26 May 2021 06:06:05.775 * monotonic clock: POSIX clock_gettime
+19984:M 26 May 2021 06:06:05.776 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+19984:M 26 May 2021 06:06:05.776 * Running mode=cluster, port=7000.
+19984:M 26 May 2021 06:06:05.777 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+19984:M 26 May 2021 06:06:05.777 # Server initialized
+19984:M 26 May 2021 06:06:05.777 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+19984:M 26 May 2021 06:06:05.777 * Ready to accept connections
+19984:M 27 May 2021 04:44:04.282 # User requested shutdown...
+19984:M 27 May 2021 04:44:04.283 * Calling fsync() on the AOF file.
+19984:M 27 May 2021 04:44:04.288 * Saving the final RDB snapshot before exiting.
+19984:M 27 May 2021 04:44:04.291 * DB saved on disk
+19984:M 27 May 2021 04:44:04.291 * Removing the pid file.
+19984:M 27 May 2021 04:44:04.291 # Redis is now ready to exit, bye bye...
+6653:C 27 May 2021 04:44:38.997 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6653:C 27 May 2021 04:44:38.997 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=6653, just started
+6653:C 27 May 2021 04:44:38.997 # Configuration loaded
+6653:M 27 May 2021 04:44:38.999 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+6653:M 27 May 2021 04:44:38.999 * monotonic clock: POSIX clock_gettime
+6653:M 27 May 2021 04:44:39.001 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+6653:M 27 May 2021 04:44:39.001 * Running mode=cluster, port=7000.
+6653:M 27 May 2021 04:44:39.001 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+6653:M 27 May 2021 04:44:39.001 # Server initialized
+6653:M 27 May 2021 04:44:39.001 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+6653:M 27 May 2021 04:44:39.002 * Ready to accept connections
+6653:M 27 May 2021 05:05:15.051 # configEpoch set to 1 via CLUSTER SET-CONFIG-EPOCH
+6653:M 27 May 2021 05:05:44.407 # IP address for this node updated to 127.0.0.1
+6653:M 27 May 2021 05:05:45.480 # Cluster state changed: ok
+6653:M 27 May 2021 05:17:41.275 * Marking node 9b3fb844b1329cd37b88fad82374e39fea38efb8 as failing (quorum reached).
+6653:M 27 May 2021 05:17:41.275 # Cluster state changed: fail
+6653:M 27 May 2021 05:22:49.869 * Clear FAIL state for node 9b3fb844b1329cd37b88fad82374e39fea38efb8: is reachable again and nobody is serving its slots after some time.
+6653:M 27 May 2021 05:22:49.870 # Cluster state changed: ok
+6653:M 27 May 2021 05:42:45.240 # New configEpoch set to 5
+6653:M 27 May 2021 05:42:45.240 # configEpoch updated after importing slot 0
+6653:M 27 May 2021 05:44:39.060 * 1 changes in 3600 seconds. Saving...
+6653:M 27 May 2021 05:44:39.061 * Background saving started by pid 7598
+7598:C 27 May 2021 05:44:39.071 * DB saved on disk
+7598:C 27 May 2021 05:44:39.072 * RDB: 0 MB of memory used by copy-on-write
+6653:M 27 May 2021 05:44:39.162 * Background saving terminated with success
+27803:C 15 Jun 2021 06:51:58.806 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+27803:C 15 Jun 2021 06:51:58.807 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=27803, just started
+27803:C 15 Jun 2021 06:51:58.807 # Configuration loaded
+27803:M 15 Jun 2021 06:51:58.808 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+27803:M 15 Jun 2021 06:51:58.808 * monotonic clock: POSIX clock_gettime
+27803:M 15 Jun 2021 06:51:58.808 # Warning: Could not create server TCP listening socket *:7000: bind: Address already in use
+27803:M 15 Jun 2021 06:51:58.809 # Failed listening on port 7000 (TCP), aborting.
+6653:M 15 Jun 2021 07:43:43.485 # User requested shutdown...
+6653:M 15 Jun 2021 07:43:43.490 * Calling fsync() on the AOF file.
+6653:M 15 Jun 2021 07:43:43.491 * Saving the final RDB snapshot before exiting.
+6653:M 15 Jun 2021 07:43:43.495 * DB saved on disk
+6653:M 15 Jun 2021 07:43:43.495 * Removing the pid file.
+6653:M 15 Jun 2021 07:43:43.495 # Redis is now ready to exit, bye bye...
+29376:C 15 Jun 2021 07:44:01.736 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+29376:C 15 Jun 2021 07:44:01.736 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=29376, just started
+29376:C 15 Jun 2021 07:44:01.736 # Configuration loaded
+29376:M 15 Jun 2021 07:44:01.738 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+29376:M 15 Jun 2021 07:44:01.738 * monotonic clock: POSIX clock_gettime
+29376:M 15 Jun 2021 07:44:01.743 * Node configuration loaded, I'm 9f876cbd724438705f7a5ee8bfda9c4d7999aaba
+29376:M 15 Jun 2021 07:44:01.744 * Running mode=cluster, port=7000.
+29376:M 15 Jun 2021 07:44:01.744 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+29376:M 15 Jun 2021 07:44:01.744 # Server initialized
+29376:M 15 Jun 2021 07:44:01.744 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+29376:M 15 Jun 2021 07:44:01.745 * DB loaded from append only file: 0.001 seconds
+29376:M 15 Jun 2021 07:44:01.746 * Ready to accept connections
+29376:M 15 Jun 2021 07:44:03.802 # Cluster state changed: ok
+29376:M 15 Jun 2021 08:44:02.093 * 1 changes in 3600 seconds. Saving...
+29376:M 15 Jun 2021 08:44:02.094 * Background saving started by pid 31498
+31498:C 15 Jun 2021 08:44:02.110 * DB saved on disk
+31498:C 15 Jun 2021 08:44:02.111 * RDB: 0 MB of memory used by copy-on-write
+29376:M 15 Jun 2021 08:44:02.204 * Background saving terminated with success
+29376:M 16 Jun 2021 01:38:52.967 * 1 changes in 3600 seconds. Saving...
+29376:M 16 Jun 2021 01:38:52.973 * Background saving started by pid 31366
+31366:C 16 Jun 2021 01:38:53.012 * DB saved on disk
+31366:C 16 Jun 2021 01:38:53.013 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 01:38:53.074 * Background saving terminated with success
+29376:M 16 Jun 2021 02:05:39.658 * Marking node ef04033f13d83f3fa3c20c32ac959ba8f098c85c as failing (quorum reached).
+29376:M 16 Jun 2021 02:05:39.658 # Cluster state changed: fail
+29376:M 16 Jun 2021 02:05:50.045 * Clear FAIL state for node ef04033f13d83f3fa3c20c32ac959ba8f098c85c: is reachable again and nobody is serving its slots after some time.
+29376:M 16 Jun 2021 02:05:53.055 # Cluster state changed: ok
+29376:M 16 Jun 2021 02:38:54.079 * 1 changes in 3600 seconds. Saving...
+29376:M 16 Jun 2021 02:38:54.080 * Background saving started by pid 3056
+3056:C 16 Jun 2021 02:38:54.088 * DB saved on disk
+3056:C 16 Jun 2021 02:38:54.088 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 02:38:54.183 * Background saving terminated with success
+29376:M 16 Jun 2021 03:38:55.004 * 1 changes in 3600 seconds. Saving...
+29376:M 16 Jun 2021 03:38:55.005 * Background saving started by pid 10237
+10237:C 16 Jun 2021 03:38:55.012 * DB saved on disk
+10237:C 16 Jun 2021 03:38:55.023 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 03:38:55.106 * Background saving terminated with success
+29376:M 16 Jun 2021 04:24:16.560 * 100 changes in 300 seconds. Saving...
+29376:M 16 Jun 2021 04:24:16.561 * Background saving started by pid 15505
+15505:C 16 Jun 2021 04:24:16.574 * DB saved on disk
+15505:C 16 Jun 2021 04:24:16.575 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 04:24:16.662 * Background saving terminated with success
+29376:M 16 Jun 2021 04:29:17.007 * 100 changes in 300 seconds. Saving...
+29376:M 16 Jun 2021 04:29:17.007 * Background saving started by pid 16391
+16391:C 16 Jun 2021 04:29:17.027 * DB saved on disk
+16391:C 16 Jun 2021 04:29:17.028 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 04:29:17.109 * Background saving terminated with success
+29376:M 16 Jun 2021 05:29:18.065 * 1 changes in 3600 seconds. Saving...
+29376:M 16 Jun 2021 05:29:18.065 * Background saving started by pid 23441
+23441:C 16 Jun 2021 05:29:18.073 * DB saved on disk
+23441:C 16 Jun 2021 05:29:18.074 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 05:29:18.170 * Background saving terminated with success
+29376:M 16 Jun 2021 05:39:20.790 * 100 changes in 300 seconds. Saving...
+29376:M 16 Jun 2021 05:39:20.791 * Background saving started by pid 24978
+24978:C 16 Jun 2021 05:39:20.797 * DB saved on disk
+24978:C 16 Jun 2021 05:39:20.798 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 05:39:20.897 * Background saving terminated with success
+29376:M 16 Jun 2021 05:44:21.039 * 100 changes in 300 seconds. Saving...
+29376:M 16 Jun 2021 05:44:21.039 * Background saving started by pid 25835
+25835:C 16 Jun 2021 05:44:21.050 * DB saved on disk
+25835:C 16 Jun 2021 05:44:21.051 * RDB: 0 MB of memory used by copy-on-write
+29376:M 16 Jun 2021 05:44:21.141 * Background saving terminated with success
+29376:M 21 Jun 2021 01:44:08.940 * Marking node ef04033f13d83f3fa3c20c32ac959ba8f098c85c as failing (quorum reached).
+29376:M 21 Jun 2021 01:44:08.942 # Cluster state changed: fail
+29376:M 21 Jun 2021 01:44:15.936 * Clear FAIL state for node ef04033f13d83f3fa3c20c32ac959ba8f098c85c: is reachable again and nobody is serving its slots after some time.
+29376:M 21 Jun 2021 01:44:15.982 # Cluster state changed: ok
+29376:M 21 Jun 2021 01:44:50.463 * Marking node ef04033f13d83f3fa3c20c32ac959ba8f098c85c as failing (quorum reached).
+29376:M 21 Jun 2021 01:44:53.160 # Cluster state changed: fail
+29376:M 21 Jun 2021 01:44:58.602 * Marking node 9b3fb844b1329cd37b88fad82374e39fea38efb8 as failing (quorum reached).
+29376:M 21 Jun 2021 01:48:18.814 * Clear FAIL state for node 9b3fb844b1329cd37b88fad82374e39fea38efb8: is reachable again and nobody is serving its slots after some time.
+29376:M 21 Jun 2021 01:48:53.845 * Marking node 9b3fb844b1329cd37b88fad82374e39fea38efb8 as failing (quorum reached).
+29376:M 21 Jun 2021 01:52:05.061 * Clear FAIL state for node ef04033f13d83f3fa3c20c32ac959ba8f098c85c: is reachable again and nobody is serving its slots after some time.
+29376:M 21 Jun 2021 01:52:16.463 * Marking node ef04033f13d83f3fa3c20c32ac959ba8f098c85c as failing (quorum reached).

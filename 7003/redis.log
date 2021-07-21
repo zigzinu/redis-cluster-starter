@@ -1,0 +1,22 @@
+7380:C 27 May 2021 05:29:47.931 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7380:C 27 May 2021 05:29:47.932 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=7380, just started
+7380:C 27 May 2021 05:29:47.932 # Configuration loaded
+7380:M 27 May 2021 05:29:47.933 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+7380:M 27 May 2021 05:29:47.933 * monotonic clock: POSIX clock_gettime
+7380:M 27 May 2021 05:29:47.933 * No cluster configuration found, I'm 548e9ebb259255e2d7e76ec9fa92c25803ebb172
+7380:M 27 May 2021 05:29:47.941 * Running mode=cluster, port=7003.
+7380:M 27 May 2021 05:29:47.941 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+7380:M 27 May 2021 05:29:47.941 # Server initialized
+7380:M 27 May 2021 05:29:47.941 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+7380:M 27 May 2021 05:29:47.941 * Ready to accept connections
+7380:M 27 May 2021 05:30:53.178 # IP address for this node updated to 127.0.0.1
+7380:M 27 May 2021 05:30:56.239 # Cluster state changed: ok
+7380:M 27 May 2021 05:35:48.499 # New configEpoch set to 4
+7380:M 27 May 2021 05:35:48.499 # configEpoch updated after importing slot 0
+7380:M 27 May 2021 05:46:11.919 # Cluster state changed: fail
+7380:M 15 Jun 2021 07:37:19.405 # User requested shutdown...
+7380:M 15 Jun 2021 07:37:19.406 * Calling fsync() on the AOF file.
+7380:M 15 Jun 2021 07:37:19.407 * Saving the final RDB snapshot before exiting.
+7380:M 15 Jun 2021 07:37:19.420 * DB saved on disk
+7380:M 15 Jun 2021 07:37:19.420 * Removing the pid file.
+7380:M 15 Jun 2021 07:37:19.420 # Redis is now ready to exit, bye bye...
